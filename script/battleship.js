@@ -107,10 +107,11 @@ let controller = {
 
 }
 
+// ---------------------------------------
 // Examine my controller object
 // controller.processGuess("A1");
 // controller.processGuess("A6");
-
+// ---------------------------------------
 
 
 
